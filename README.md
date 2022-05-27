@@ -69,12 +69,6 @@ Heyy! My name is Mário, but you can call me Gaspar, I am a teenager who loves t
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#eris">
-        <img src="https://cdn.discordapp.com/icons/831967755447828491/a_9d92db2f408f0b5eed730249046d15d2.png" width="48" height="48" alt="Eris" />
-      </a>
-      <br>Eris
-    </td>
-    <td align="center" width="96">
       <a href="#adobephotoshop">
         <img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" width="48" height="48" alt="Adobe Photoshop" />
       </a>
