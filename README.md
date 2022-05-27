@@ -76,13 +76,13 @@ Heyy! My name is Mário, but you can call me Gaspar, I am a teenager who loves t
     </td>
     <td align="center" width="96">
       <a href="#adobeaftereffects">
-        <img src="https://lh3.googleusercontent.com/proxy/HoxMelx9TqbtBepacIJA5viO7Us2-QlWaqZ5FmFFGfAYk99LDb4AH5KoDwvmTq1aEfWuDDg1eWJ_5WTSYj5MkrftfvOnZ5CxUW4g3XVbfUR5vk339Hvl2IN8Xqn29rSsOoahR-WhdHroARqhPwzjr5Cz1OtnqzWO" width="48" height="48" alt="Adobe After Effects" />
+        <img src="https://cdn.discordapp.com/attachments/930491194633519164/979809809601802240/Adobe_After_Effects_CC_icon.svg.png" width="48" height="48" alt="Adobe After Effects" />
       </a>
       <br>Adobe After Effects
     </td>
     <td align="center" width="96">
       <a href="#adobeaftereffects">
-        <img src="https://cdn.discordapp.com/attachments/930491194633519164/979809809601802240/Adobe_After_Effects_CC_icon.svg.png" width="48" height="48" alt="Adobe After Effects" />
+        <img src="https://cdn.discordapp.com/attachments/930491194633519164/979808603965890600/angular-icon-logo.png" width="48" height="48" alt="Adobe After Effects" />
       </a>
       <br>Angular
     </td>
